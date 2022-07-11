@@ -10,7 +10,7 @@ namespace SalesWinApp
         }
 
         IMemberRepository memberRepository = new MemberRepository();
-
+        //UI Design Basic, Create file basic for code, Connect Database, 
         private void btnLogin_Click(object sender, EventArgs e)
         {
             try
